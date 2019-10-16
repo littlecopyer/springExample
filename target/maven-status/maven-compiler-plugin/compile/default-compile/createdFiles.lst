@@ -1,0 +1,4 @@
+com/shiyanlou/demo/loosely_coupled/CsvOutputGenerator.class
+com/shiyanlou/demo/loosely_coupled/OutputHelper.class
+com/shiyanlou/demo/loosely_coupled/IOutputGenerator.class
+com/shiyanlou/demo/loosely_coupled/JsonOutputGenerator.class
